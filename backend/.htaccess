@@ -2,7 +2,7 @@
 RewriteEngine On
 
 # If project is inside htdocs/buymatch
-RewriteBase /buymatch/
+RewriteBase /BUYMATCH/
 
 # Disable directory listing
 Options -Indexes
