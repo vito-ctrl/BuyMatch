@@ -23,7 +23,7 @@ RewriteRule ^(assets|uploads)/ - [L]
 # -----------------------------------
 # ERROR PAGE
 # -----------------------------------
-ErrorDocument 404 /buymatch/404.php
+ErrorDocument 404 /BUYMATCH/uploads/404.php
 
 # -----------------------------------
 # FRONT CONTROLLER

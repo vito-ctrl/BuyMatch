@@ -1,7 +1,7 @@
 <?php
     class Database {
         private $host = "localhost";
-        private $dbname = "BuyMatch";
+        private $dbname = "buymatch";
         private $user = "vito";
         private $pass = "vito123456789";
         
@@ -18,4 +18,5 @@
             }   
         } 
     }
+
 ?>
