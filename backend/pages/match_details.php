@@ -146,7 +146,7 @@ if (!$Match_Organizer) {
         </div>
     <?php endif; ?>
 
-    <!-- <button class="buy-btn">Buy Ticket</button> -->
+    <button class="buy-btn">Buy Ticket</button>
 </div>
 
 </body>
